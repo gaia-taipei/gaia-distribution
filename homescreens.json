@@ -4,15 +4,7 @@
     ["apps", "music"],
     ["apps", "video"],
     ["apps", "gallery"],
-    ["external-apps", "marketplace.firefox.com"]
-  ], [
-    ["external-apps", "m.here.com"],
-    ["external-apps", "youtube"],
-    ["external-apps", "facebook"],
-    ["external-apps", "twitter"],
-    ["apps", "settings"],
-    ["external-apps", "mozilla"],
-    ["external-apps", "myfirefox"]
+    ["apps", "settings"]
   ]
 ],
   "search_page": {
